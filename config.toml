@@ -1,4 +1,4 @@
-baseURL = "https://boy-kentaro.ssl-lolipop.jp/lolipop-gh-actions-hugo"
+baseURL = "http://hayapi.pya.jp/lolipop-gh-actions-hugo"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
