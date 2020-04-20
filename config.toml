@@ -1,4 +1,4 @@
 baseURL = "http://hayapi.pya.jp/lolipop-gh-actions-hugo"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Hayapi's New Hugo Site"
 theme = "ananke"
